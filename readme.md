@@ -11,6 +11,6 @@ Great knowledge of SQL Server, queries, triggers and procedures.
 Actualy falling in love with MongoDB <3
 
 
-Check out my previous jobs and employers on LinkedIn.
+Check out my previous jobs experiences and employers on LinkedIn.
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="paulo-estraich"><a class="LI-simple-link" href='https://br.linkedin.com/in/paulo-estraich?trk=profile-badge'>Paulo Estraich</a></div>
